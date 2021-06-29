@@ -2,4 +2,4 @@
 
 上機測驗 - 物件 & 演算法
 
-Languages : P
+Languages : Python
